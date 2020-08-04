@@ -1,5 +1,5 @@
 # Employee-management 
-Employee management usin MySQL
+Employee management using MySQL
 # Table creation code
  
  # SQL Exercises/
