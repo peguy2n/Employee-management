@@ -43,5 +43,5 @@ Employee management usin MySQL
 20. Delete from the table all employees who work in departments with a budget greater than or equal to $60,000.
 
 21. Delete from the table all employees.
-   DELETE FROM Employees;
+  
 
