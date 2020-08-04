@@ -1,7 +1,7 @@
 # Employee-management
 SQL Exercises/Employee management
 
-1. Select the last name of all employees.
+# Select the last name of all employees.
 
 2. Select the last name of all employees, without duplicates.
 
